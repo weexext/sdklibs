@@ -8,10 +8,17 @@
   <packaging>aar</packaging>
   <dependencies>
     <dependency>
-      <groupId>android</groupId>
-      <artifactId>weex-sdk16</artifactId>
-      <version>unspecified</version>
+      <groupId>com.taobao.android</groupId>
+      <artifactId>weex_sdk</artifactId>
+      <version>0.10.0</version>
+      <type>aar</type>
       <scope>compile</scope>
+      <exclusions>
+        <exclusion>
+          <artifactId>*</artifactId>
+          <groupId>*</groupId>
+        </exclusion>
+      </exclusions>
     </dependency>
     <dependency>
       <groupId>com.android.support</groupId>
