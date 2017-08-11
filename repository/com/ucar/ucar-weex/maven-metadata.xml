@@ -1,13 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata>
   <groupId>com.ucar</groupId>
-  <artifactId>weex</artifactId>
+  <artifactId>ucar-weex</artifactId>
   <versioning>
     <release>1.0.1</release>
     <versions>
       <version>1.0.1</version>
-      <version>1.0.0</version>
     </versions>
-    <lastUpdated>20170811052748</lastUpdated>
+    <lastUpdated>20170811055032</lastUpdated>
   </versioning>
 </metadata>
